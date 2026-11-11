@@ -1,8 +1,0 @@
-# Application
-requests~=2.32
-pandas~=2.2
-tabulate~=0.9
-
-# Development
-black~=23.3
-pre-commit~=3.3
